@@ -5,7 +5,7 @@
 # --- Configuration ---
 PYTHON_ENV_NAME="venv"
 REQUIREMENTS_FILE="requirements.txt"
-NOTEBOOK_FILE="notebook_main.ipynb" 
+NOTEBOOK_FILE="notebook/notebook_main.ipynb" 
 
 # --- Functions ---
 # Function to print messages
