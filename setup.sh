@@ -5,7 +5,7 @@
 # --- Configuration ---
 PYTHON_ENV_NAME="venv"
 REQUIREMENTS_FILE="requirements.txt"
-NOTEBOOK_FILE="aiquest_pikapika.ipynb" # <-- IMPORTANT: REPLACE THIS with your actual notebook file name
+NOTEBOOK_FILE="notebook_main.ipynb" 
 
 # --- Functions ---
 # Function to print messages
